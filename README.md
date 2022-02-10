@@ -12,6 +12,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In love with linkedIn
 - ![animited photo](https://user-images.githubusercontent.com/61106500/114032703-2ea6c900-989a-11eb-8e11-49fd7198e81c.jpg) 
-- ![animited photo](https://miro.medium.com/max/1200/0*xQ54nqXMe0X5ssGQ.png)
+- ![photo](https://miro.medium.com/max/1200/0*xQ54nqXMe0X5ssGQ.png)
 
 
