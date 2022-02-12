@@ -12,3 +12,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In love with linkedIn
 - ![animited photo](https://user-images.githubusercontent.com/61106500/114032703-2ea6c900-989a-11eb-8e11-49fd7198e81c.jpg) 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar060301&layout=compact)](https://github.com/codexritik/github-readme-stats)
+- ![CodexRitik GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar060301&show_icons=true&theme=radical)
