@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 
 - 🔭 I’m currently working on fullstack Developer.
-- 🌱 I’m currently learning node.js.
+- 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with nodeJs
+- 🤔 I’m looking for help with Software Development.
 - 💬 Ask me about fornt-End and Backed-End Development.
 - 📫 How to reach me: [LinkedIn-@rajkumar](https://www.linkedin.com/in/raj-kumar-7127b31a8/)
 [Twitter-@rajkumer6301](https://twitter.com/rajkumar6301)
