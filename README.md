@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm am Raj Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 
 - 🔭 I’m currently working on fullstack Developer.
 - 🌱 I’m currently learning node.js.
