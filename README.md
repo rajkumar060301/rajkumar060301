@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 
-- 🔭 I’m currently working on fullstack Developer.
-- 🌱 I’m currently learning DevOps.
+- 🔭 I’m currently working on fullstack Developer(Node.js, react.js, mongoDB, SQL, Javascript).
+- 🌱 I’m currently learning DevOps Engineer tolls- (Git and GitHub, Jeklins, Maven docker, Ansible, Kubernets, Puppet,chef) 
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with Software Development.
 - 💬 Ask me about fornt-End and Backed-End Development.
