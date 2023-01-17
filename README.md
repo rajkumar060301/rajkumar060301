@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on fullstack Developer(Node.js, react.js, mongoDB, SQL, Javascript).
 - 🌱 I’m currently learning DevOps Engineer tolls- (Git and GitHub, Jeklins, Maven docker, Ansible, Kubernets, Puppet,chef) 
-- 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with Software Development.
-- 💬 Ask me about fornt-End and Backed-End Development.
+- 👯 I’m looking to collaborate on Web Development(HTML and CSS, JavaScript, DOM, jQuery).
+- 🤔 I’m looking for help with Software Development(Java, OOPs, DSA, Agile).
+- 💬 Ask me about fornt-End and Backed-End Development(node.js, ejs6, mongoDB).
 - 📫 How to reach me: [LinkedIn-@rajkumar](https://www.linkedin.com/in/raj-kumar-7127b31a8/)
 [Twitter-@rajkumer6301](https://twitter.com/rajkumar6301)
 [Facebook-@rajkumar060301](https://www.facebook.com/rajkumar060301)
