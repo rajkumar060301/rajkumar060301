@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Software Development(Java, OOPs, DSA, Agile).
 - 💬 Ask me about fornt-End and Backed-End Development(node.js, ejs6, mongoDB).
 - 🖥️ I use Operating System Windows and Linux.
-- ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Skills
+- ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Solving Skills
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raj-kumar-7127b31a8/)
 [Twitter](https://twitter.com/rajkumar6301)
 [Facebook](https://www.facebook.com/rajkumar060301)
