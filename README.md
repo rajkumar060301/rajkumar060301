@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Software Development(Java, OOPs, DSA, Agile).
 - 💬 Ask me about fornt-End and Backed-End Development(node.js, ejs6, mongoDB).
 - 🖥️ I use Operating System Windows and Linux.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raj-kumar-7127b31a8/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raj-kumar-7127b31a8/)
 [Twitter](https://twitter.com/rajkumar6301)
 [Facebook](https://www.facebook.com/rajkumar060301)
 [YouTube](https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg)
