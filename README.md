@@ -8,7 +8,7 @@
 - 🖥️ I use Operating System Windows and Linux.
 - ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Solving Skills
 - 📫 **How to reach me:**
-   <a href='https://www.linkedin.com/in/rajkumar060301'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="LinkedIn" width="20" height="20"></a>
+   - <a href='https://www.linkedin.com/in/rajkumar060301'> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="LinkedIn" width="20" height="20"></a>
   <a href='https://twitter.com/rajkumar6301'> <img src="https://freepnglogo.com/images/all_img/1707222563twitter-logo-png.png" alt="Twitter" width="20" height="20"></a>
   <a href='https://www.facebook.com/rajkumar060301'> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20" height="20"></a>
   <a href='https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg'> <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20" height="20"></a>
