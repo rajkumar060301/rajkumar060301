@@ -7,10 +7,12 @@
 - 💬 Ask me about fornt-End and Backed-End Development(reactJs,Angular and Springboot, Java, node.js, PHP, ejs6, SQL, mongoDB).
 - 🖥️ I use Operating System Windows and Linux.
 - ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Solving Skills
-- 📫 How to reach me: 	[LinkedIn](https://www.linkedin.com/in/rajkumar060301/)
-			[Twitter](https://twitter.com/rajkumar6301)
-			[Facebook](https://www.facebook.com/rajkumar060301)
-			[YouTube](https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg)
+- 📫 **How to reach me:**
+  - [LinkedIn](https://www.linkedin.com/in/rajkumar060301/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_logo_2013.svg) 🔗
+  - [Twitter](https://twitter.com/rajkumar6301) ![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg) 🐦
+  - [Facebook](https://www.facebook.com/rajkumar060301) ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg) 📘
+  - [YouTube](https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg) ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png) ▶️
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In love with linkedIn
 - ![animited photo](https://user-images.githubusercontent.com/61106500/114032703-2ea6c900-989a-11eb-8e11-49fd7198e81c.jpg) 
