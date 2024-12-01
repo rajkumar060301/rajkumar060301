@@ -8,11 +8,10 @@
 - 🖥️ I use Operating System Windows and Linux.
 - ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Solving Skills
 - 📫 **How to reach me:**
-  - [LinkedIn](https://www.linkedin.com/in/rajkumar060301/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_logo_2013.svg)
-  - [Twitter](https://twitter.com/rajkumar6301) ![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)
-  - [Facebook](https://www.facebook.com/rajkumar060301) ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)
-  - [YouTube](https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg) ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
-
+  - [LinkedIn](https://www.linkedin.com/in/rajkumar060301/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_logo_2013.svg" alt="LinkedIn" width="20" height="20">
+  - [Twitter](https://twitter.com/rajkumar6301) <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="20" height="20">
+  - [Facebook](https://www.facebook.com/rajkumar060301) <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20" height="20">
+  - [YouTube](https://www.youtube.com/channel/UCS0lo3ONuU_iWvOhYNlEksg) <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20" height="20">
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In love with linkedIn
