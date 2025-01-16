@@ -27,7 +27,6 @@
   
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar060301&layout=compact)](https://github.com/rajkumar060301/github-readme-stats)
 - ![Raj Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar060301&show_icons=true&theme=radical)
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rajkumar060301&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=rajkumar060301&theme=default" />
-</picture>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajkumar060301"/></a>
+</p>
