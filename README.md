@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DevOps Engineer tools - (Git and GitHub, Jeklins, Maven docker, Ansible, Kubernets, Puppet,chef) 
 - 👯 I’m looking to collaborate on Web Development(Angular and Springboot, Spring MVC, Laravel MVC, HTML and CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax,Mysql).
 - 🤔 I’m looking for help with Software Development(Web Development).
-- 💬 Ask me about fornt-End and Backed-End Development(reactJs,Angular and Springboot, Spring MVC, Laravel MVC Java, node.js, PHP, ejs6, SQL, mongoDB).
+- 💬 Ask me about fornt-End and Backed-End Development(reactJs,Angular and Springboot, Spring MVC, Laravel MVC, Java, node.js, PHP, ejs6, SQL, mongoDB).
 - 🖥️ I use Operating System Windows and Linux.
 - ⚙️ I have Professional Skills - Teamwork, Good communication and presentation skills, Problem Solving Skills
 - 📫 **How to reach me:**
