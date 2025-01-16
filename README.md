@@ -32,3 +32,5 @@
     <img src="https://streak-stats.demolab.com?user=rajkumar060301&theme=default&hide_border=true" alt="GitHub Streak Stats">
   </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
