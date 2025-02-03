@@ -57,12 +57,35 @@
 ---
 
 ### **📜 Badges and Certifications**
+# 📜 Badges and Certifications
+
+<div style="display: flex; justify-content: space-between;">
+
+<!-- Left Column -->
+<div style="width: 45%;">
+
 - [Android with Java](https://www.linkedin.com/in/rajkumar6301/details/featured/1635467890036/single-media-viewer/)
 - [React-Native](https://media-exp1.licdn.com/dms/image/C5622AQGF2OlToAH7zA/feedshare-shrink_800/0/1635301988301?e=1647475200&v=beta&t=QwH_MbaBADi2LHZ2Ch4KrXcLkh9E6SlWV5ETL0cWsAk)
 - [Full-Stack with Udemy](https://www.linkedin.com/feed/update/urn:li:activity:6868918307337183232/)
-- [Networking with Cisco](https://www.linkedin.com/feed/update/urn:li:activity:6892095866681880576/)
+- [Networking with Cisco](https://www.credly.com/earner/earned/badge/8df33c63-1ade-413c-af9f-d52a8e18848d?trk=public_profile_certification-title)
 - [Industrial Training](https://www.linkedin.com/in/rajkumar060301/details/featured/1635467684793/single-media-viewer/)
 - [Summer Internship](https://www.linkedin.com/in/rajkumar060301/details/featured/1635467886676/single-media-viewer/)
+
+</div>
+
+<!-- Right Column -->
+<div style="width: 45%;">
+
+- [Java (Basic) Certificate](https://www.hackerrank.com/certificates/8ef58c04260b)
+- [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/6f7f2ac8b75c)
+- [Python (Basic) Certificate](https://www.hackerrank.com/certificates/f4058367aa45)
+- [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/3d360bc16ef2)
+- [Hero Certificate of Participation](https://unstop.com/certificate-preview/1516cef8-48f4-4d58-9c3c-3c6117b4da38)
+- [Cyber security from Cisco](https://www.credly.com/earner/earned/badge/9d5b5f5c-6ed5-42b2-a6d7-c480157c2ebd)
+
+</div>
+
+</div>
 
 ---
 
