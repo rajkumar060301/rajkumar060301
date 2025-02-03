@@ -25,8 +25,23 @@
 	<a href="https://www.linkedin.com/in/rajkumar060301/details/featured/1635467684793/single-media-viewer/" target="_blank"><ul>Industrial Training </ul></a>
 	<a href="https://www.linkedin.com/in/rajkumar060301/details/featured/1635467886676/single-media-viewer/"><ul>Summer Internship</ul></a></p>
   
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar060301&layout=compact)](https://github.com/rajkumar060301/github-readme-stats)
-- ![Raj Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumar060301&show_icons=true&theme=radical)
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajkumar060301"/></a>
-</p>
+<!-- Left-aligned GitHub Top Languages -->
+<div align="left">
+    <a href="https://github.com/rajkumar060301/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar060301&layout=compact" alt="Top Languages" />
+    </a>
+</div>
+
+<!-- Right-aligned GitHub Stats -->
+<div align="right">
+    <a href="https://github.com/rajkumar060301/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajkumar060301&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+</div>
+
+<!-- Centered GitHub Streak Stats -->
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=rajkumar060301" alt="GitHub Streak Stats" />
+    </a>
+</div>
