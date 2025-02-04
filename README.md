@@ -66,8 +66,8 @@
 
 - [Android with Java](https://www.linkedin.com/in/rajkumar6301/details/featured/1635467890036/single-media-viewer/)
 - [React-Native](https://media-exp1.licdn.com/dms/image/C5622AQGF2OlToAH7zA/feedshare-shrink_800/0/1635301988301?e=1647475200&v=beta&t=QwH_MbaBADi2LHZ2Ch4KrXcLkh9E6SlWV5ETL0cWsAk)
-- [Full-Stack with Udemy](https://www.linkedin.com/feed/update/urn:li:activity:6868918307337183232/)
-- [Networking with Cisco](https://www.credly.com/earner/earned/badge/8df33c63-1ade-413c-af9f-d52a8e18848d?trk=public_profile_certification-title)
+- [Full-Stack with Udemy](https://www.udemy.com/certificate/UC-53e73ef1-47bc-4229-963f-fb9caaa7b269/)
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/8df33c63-1ade-413c-af9f-d52a8e18848d)
 - [Industrial Training](https://www.linkedin.com/in/rajkumar060301/details/featured/1635467684793/single-media-viewer/)
 - [Summer Internship](https://www.linkedin.com/in/rajkumar060301/details/featured/1635467886676/single-media-viewer/)
 
@@ -81,7 +81,8 @@
 - [Python (Basic) Certificate](https://www.hackerrank.com/certificates/f4058367aa45)
 - [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/3d360bc16ef2)
 - [Hero Certificate of Participation](https://unstop.com/certificate-preview/1516cef8-48f4-4d58-9c3c-3c6117b4da38)
-- [Cyber security from Cisco](https://www.credly.com/earner/earned/badge/9d5b5f5c-6ed5-42b2-a6d7-c480157c2ebd)
+- [Cybersecurity Essentials from Cisco](https://www.credly.com/badges/9d5b5f5c-6ed5-42b2-a6d7-c480157c2ebd)
+- [CyberOps Associate from Cisco](https://www.credly.com/badges/a95bd9a3-c8e0-4f64-9a48-65c83b189a7c)
 
 </div>
 
