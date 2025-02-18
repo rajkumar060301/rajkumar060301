@@ -64,12 +64,12 @@
 <!-- Left Column -->
 <div style="width: 45%;">
 
-- [Android with Java](https://jumpshare.com/s/raObcZrevpvjSfJfPsIj)
-- [React-Native](https://jumpshare.com/s/nJ673Y8hbEhdAYBeZiyY)
+- [Android with Java](https://smallpdf.com/result#r=0a08d1c62d66b28713f938118840e41c&t=share-document)
+- [React-Native](https://smallpdf.com/result#r=3a4fb0c30b56c5bfd29dd70b507ebe43&t=share-document)
 - [Full-Stack with Udemy](https://www.udemy.com/certificate/UC-53e73ef1-47bc-4229-963f-fb9caaa7b269/)
 - [CCNA: Introduction to Networks](https://www.credly.com/badges/8df33c63-1ade-413c-af9f-d52a8e18848d)
-- [Industrial Training](https://jmp.sh/s/hgoLeDh0i4hBpSjKT4hL)
-- [Summer Internship](https://jumpshare.com/s/FQ13QJWKI1gHaFe2tYoK)
+- [Industrial Training](https://smallpdf.com/result#r=fe92876e04eb84c207ab0be56126c103&t=share-document)
+- [Summer Internship](https://smallpdf.com/result#r=b53c749a4144c347f3382ab1d0a05883&t=share-document)
 
 </div>
 
