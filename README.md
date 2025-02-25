@@ -72,8 +72,6 @@
 - [Summer Internship](https://smallpdf.com/result#r=b53c749a4144c347f3382ab1d0a05883&t=share-document)
 
 </div>
-
-
 <!-- Right Column -->
 <div style="width: 45%;">
 
