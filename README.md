@@ -4,7 +4,7 @@
 ---
 
 ### **👨‍💻 About Me**
-- 🔭 I’m currently learning **Fullstack Web Development** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
+- 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
 - 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Docker, Ansible, Kubernetes, Puppet, Chef).
 - 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
 - 🤔 I’m looking for help with **Software Development** (Web Development).
