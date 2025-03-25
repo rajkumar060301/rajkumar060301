@@ -55,6 +55,23 @@
 </div>
 
 ---
+## 🚀 Problem Solver | Competitive Programmer
+
+Passionate about **problem-solving** and **algorithmic challenges**, I love to tackle complex problems and optimize solutions. I actively participate in competitive programming across multiple platforms, constantly improving my skills.
+
+### 🏆 Competitive Programming Profiles:
+- **LeetCode:** [rajkumar060301](https://leetcode.com/u/rajkumar060301/)
+- **HackerRank:** [Raj Kumar](https://www.hackerrank.com/profile/_191500623)
+- **HackerEarth:** [Raj Kumar](https://www.hackerearth.com/@raj.kumar_cs19)
+- **CodeChef:** [rajkumar06301](https://www.codechef.com/users/rajkumar06301)
+- **Codeforces:** [rajkumar060301](https://codeforces.com/rajkumar060301)
+
+### 💡 Skills & Interests:
+- Data Structures & Algorithms (DSA)
+- Problem Solving & Competitive Programming
+- Optimization & Performance Tuning
+- Software Development & System Design
+---
 
 ### **📜 Badges and Certifications**
 # 📜 Badges and Certifications
