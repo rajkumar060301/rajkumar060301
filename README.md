@@ -3,16 +3,16 @@
 
 ---
 
-   ### **👨‍💻 About Me**
-    - 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
-    - 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Docker, Ansible, Kubernetes, Puppet, Chef).
-    - 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
-    - 🤔 I’m looking for help with **Software Development** (Web Development).
-    - 💬 Ask me about **Frontend and Backend Development** (ReactJS, Angular, Springboot, Spring MVC, Laravel MVC, Java, Node.js, PHP, ES6, SQL, MongoDB).
-    - 🖥️ I use **Windows** and **Linux** as my primary operating systems.
-    - ⚙️ I have **Professional Skills**: Teamwork, Good Communication, Presentation Skills, and Problem-Solving.
-    - 😄 Pronouns: He/His
-    - ⚡ Fun fact: I’m in love with LinkedIn! 😄
+### **👨‍💻 About Me**
+- 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
+- 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Docker, Ansible, Kubernetes, Puppet, Chef).
+- 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
+- 🤔 I’m looking for help with **Software Development** (Web Development).
+- 💬 Ask me about **Frontend and Backend Development** (ReactJS, Angular, Springboot, Spring MVC, Laravel MVC, Java, Node.js, PHP, ES6, SQL, MongoDB).
+- 🖥️ I use **Windows** and **Linux** as my primary operating systems.
+- ⚙️ I have **Professional Skills**: Teamwork, Good Communication, Presentation Skills, and Problem-Solving.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I’m in love with LinkedIn! 😄
 
 
 ---
