@@ -14,9 +14,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I’m in love with LinkedIn! 😄
 
-
 ---
-
 
 ### **📫 How to Reach Me**
 <div align="center">
@@ -76,7 +74,6 @@ Passionate about **problem-solving** and **algorithmic challenges**, I love to t
 ---
 
 ### **📜 Badges and Certifications**
-# 📜 Badges and Certifications
 
 <div style="display: flex; justify-content: space-between;">
 
