@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">A Passionate Fullstack Web Developer and DevOps Enthusiast</h3>
----
+
     **👨‍💻 About Me**
     - 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
     - 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Docker, Ansible, Kubernetes, Puppet, Chef).
@@ -12,7 +12,7 @@
     - 😄 Pronouns: He/His
     - ⚡ Fun fact: I’m in love with LinkedIn! 😄
 
----
+
 
 ### **📫 How to Reach Me**
 <div align="center">
