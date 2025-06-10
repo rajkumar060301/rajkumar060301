@@ -122,4 +122,5 @@ Passionate about **problem-solving** and **algorithmic challenges**, I love to t
 ### **🌟 Fun Fact**
 <div align="center">
     <img src="https://user-images.githubusercontent.com/61106500/114032703-2ea6c900-989a-11eb-8e11-49fd7198e81c.jpg" alt="Fun Fact" width="300" />
+    
 </div>
