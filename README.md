@@ -3,7 +3,7 @@
 
 ---
 ### **👨‍💻 About Me**
-- 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, Laravel MVC + Angular Technology).
+- 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, kafka, Redis, Laravel MVC, System Design and Microservices + Angular Technology). 
 - 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Gradle, Docker, Kubernetes, AWS, MS Azure).
 - 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
 - 🤔 I’m looking for help with **Software Development** (Web Development).
