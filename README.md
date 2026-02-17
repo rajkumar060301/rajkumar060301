@@ -14,7 +14,6 @@
 - ⚡ Fun fact: I’m in love with LinkedIn! 😄
 
 ---
-
 ### **📫 How to Reach Me**
 <div align="center">
     <a href="https://www.linkedin.com/in/rajkumar6301">
