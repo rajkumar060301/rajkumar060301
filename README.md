@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">A Passionate Fullstack Web Developer and DevOps Enthusiast</h3>
-
 ---
 ### **👨‍💻 About Me**
 - 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, kafka, Redis, Laravel MVC, System Design and Microservices + Angular Technology). 
