@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Fullstack Web Developer and DevOps Enthusiast</h3>
 ---
 ### **👨‍💻 About Me**
-- 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, kafka, Redis, Laravel MVC, System Design and Microservices + Angular Technology). 
-- 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Gradle, Docker, Kubernetes, AWS, MS Azure).
-- 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
-- 🤔 I’m looking for help with **Software Development** (Web Development).
-- 💬 Ask me about **Frontend and Backend Development** (ReactJS, Angular, Springboot, Spring MVC, Laravel MVC, Java, Node.js, PHP, ES6, MYSQL, MongoDB).
-- 🖥️ I use **Windows** and **Linux** as my primary operating systems.
-- ⚙️ I have **Professional Skills**: Teamwork, Good Communication, Presentation Skills, and Problem-Solving.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I’m in love with LinkedIn! 😄
+    - 🔭 I’m **Fullstack Web Developer** (Springboot, Spring MVC, kafka, Redis, Laravel MVC, System Design and Microservices + Angular Technology). 
+    - 🌱 I’m currently learning **DevOps Engineer Tools** (Git, GitHub, Jenkins, Maven, Gradle, Docker, Kubernetes, AWS, MS Azure).
+    - 👯 I’m looking to collaborate on **Web Development** (Angular, Springboot, Spring MVC, Laravel MVC, HTML, CSS, JavaScript, DOM, jQuery, JSON, RestAPI, Ajax, MySQL).
+    - 🤔 I’m looking for help with **Software Development** (Web Development).
+    - 💬 Ask me about **Frontend and Backend Development** (ReactJS, Angular, Springboot, Spring MVC, Laravel MVC, Java, Node.js, PHP, ES6, MYSQL, MongoDB).
+    - 🖥️ I use **Windows** and **Linux** as my primary operating systems.
+    - ⚙️ I have **Professional Skills**: Teamwork, Good Communication, Presentation Skills, and Problem-Solving.
+    - 😄 Pronouns: He/His
+    - ⚡ Fun fact: I’m in love with LinkedIn! 😄
 
 ---
 ### **📫 How to Reach Me**
