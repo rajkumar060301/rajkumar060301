@@ -59,7 +59,7 @@ Passionate about **problem-solving** and **algorithmic challenges**, I love to t
 ### 🏆 Competitive Programming Profiles:
 - **LeetCode:** [rajkumar060301](https://leetcode.com/u/rajkumar060301/)
 - **HackerRank:** [Raj Kumar](https://www.hackerrank.com/profile/_191500623)
-- **HackerEarth:** [Raj Kumar](https://www.hackerearth.com/@raj.kumar_cs19)
+- **HackerEarth:** [Raj Kumar](https://www.hackerearth.com/@rajkumar6301/)
 - **CodeChef:** [rajkumar06301](https://www.codechef.com/users/rajkumar06301)
 - **Codeforces:** [rajkumar060301](https://codeforces.com/rajkumar060301)
 
